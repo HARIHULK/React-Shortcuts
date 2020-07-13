@@ -28,11 +28,25 @@
             "passoutyear":"2016",
             "percentage":"97%"
         }
-            ]
-
+    ],
+            "techskills":"HTML, CSS, jQuery, Vanilla Javascript, GSAP, Bootstrap, React Js, Django, Linux, Windows, Ubuntu, Red Hat, AWS Solution Architect"
+    
+            
    }
 
-   ]
+   ],
+   "certifications":{
+    "red hat":"Red Hat Linux Adminstration Certification",
+    "aws cloud":"AWS Cloud Practioner Certification from aws",
+    "aws vinsys":"AWS Certified Solution Architect Training Certification from Vinsys",
+    "web django":"Web Development using Django from Apssdc",
+    "web React":"Web Development using React Js from Apssdc",
+   "aws apssdc":"AWS Cloud Training Certification from Apssdc",
+   "IT CISCO":"IT Essentials Certification from CISCO",
+   "CYBER CISCO":"Cyber Security Certification from CISCO"
+
+   }
+   
 
    
 }
